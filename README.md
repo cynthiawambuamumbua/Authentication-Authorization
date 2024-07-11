@@ -44,7 +44,7 @@ MongoDB (optional: for database storage)
 3.Install Dependencies:
 `npm install`
 
-4.Start the Application:
+4.Start the Application:  
 `npm start`
 5.Access the Application:
 Run `http://localhost:3000` in your browser after starting the application
