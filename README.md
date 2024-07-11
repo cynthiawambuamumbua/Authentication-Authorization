@@ -32,8 +32,8 @@ OAuth: Integration with Google, Facebook or Linkedin for seamless login experien
 
 ## Installation and Running the System
 ## Prerequisites
-Node.js (version 18)
-MongoDB (optional: for database storage)
+Node.js (version18.20.3)
+MongoDB/postgreSQL (optional: for database storage)
 ## Steps to Install and Run
 1.Clone the Repository:
  git clone `https://github.com/cynthiawambuamumbua/Authentication-Authorization.git`
